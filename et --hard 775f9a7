@@ -1,0 +1,175 @@
+*   [33m732c027[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #5 from chaimaeddib2005/feature-farah-v2
+[31m|[m[32m\[m  
+[31m|[m *   [33md6ae497[m[33m ([m[1;31morigin/feature-farah-v2[m[33m)[m Merge branch 'main' into feature-farah-v2
+[31m|[m [33m|[m[34m\[m  
+[31m|[m * [34m|[m [33mde210d5[m Farah second modification: new HTML + README update
+* [34m|[m [34m|[m [33m775f9a7[m Update README.md
+[34m|[m [34m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m   
+[34m|[m [34m|[m *   [33m9e7e980[m[33m ([m[1;31morigin/feature-farahbouhzam[m[33m)[m Merge branch 'main' into feature-farahbouhzam
+[34m|[m [34m|[m [35m|[m[34m\[m  
+[34m|[m [34m|[m[34m_[m[35m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m [35m|[m   
+* [34m|[m [35m|[m   [33m7012585[m Merge pull request #32 from ayaigadern/feature2
+[1;31m|[m[1;32m\[m [34m\[m [35m\[m  
+[1;31m|[m * [34m\[m [35m\[m   [33m698ed6c[m Merge branch 'main' into feature2
+[1;31m|[m [1;33m|[m[1;31m\[m [34m\[m [35m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [34m/[m [35m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [34m|[m [35m|[m   
+* [1;33m|[m [34m|[m [35m|[m   [33m3ef994d[m Merge pull request #33 from ayaigadern/feature1
+[1;35m|[m[1;36m\[m [1;33m\[m [34m\[m [35m\[m  
+[1;35m|[m * [1;33m|[m [34m|[m [35m|[m [33md7af0e6[m changes made by feature1
+[1;35m|[m[1;35m/[m [1;33m/[m [34m/[m [35m/[m  
+[1;35m|[m * [34m/[m [35m/[m [33m9bdad38[m changes made by feature2
+[1;35m|[m[1;35m/[m [34m/[m [35m/[m  
+* [34m|[m [35m|[m   [33m1faf8e7[m Merge pull request #31 from Adam-0203/Adam
+[31m|[m[32m\[m [34m\[m [35m\[m  
+[31m|[m * [34m|[m [35m|[m [33me63c3c0[m Adam's modification
+[31m|[m[31m/[m [34m/[m [35m/[m  
+* [34m|[m [35m|[m   [33m631ca36[m Merge pull request #29 from AbdelkaderMH/newfeature
+[33m|[m[34m\[m [34m\[m [35m\[m  
+[33m|[m * [34m|[m [35m|[m [33mad32726[m java workflow
+[33m|[m * [34m|[m [35m|[m [33m90af7dc[m .\test_workflow.txt
+* [34m|[m [34m|[m [35m|[m [33m6027ecf[m Configure CI to use Java instead of Python
+* [34m|[m [34m|[m [35m|[m   [33m30ca611[m Merge pull request #25 from HibaOhd/newBranch
+[34m|[m[36m\[m [34m\[m [34m\[m [35m\[m  
+[34m|[m [36m|[m[34m/[m [34m/[m [35m/[m  
+[34m|[m[34m/[m[36m|[m [34m|[m [35m|[m   
+[34m|[m * [34m|[m [35m|[m [33m553de94[m Update README.md
+* [36m|[m [34m|[m [35m|[m [33m0420d4e[m workflow
+[36m|[m[36m/[m [34m/[m [35m/[m  
+* [34m|[m [35m|[m   [33m613aeff[m Merge pull request #24 from souhaibaks/souhaib
+[1;31m|[m[1;32m\[m [34m\[m [35m\[m  
+[1;31m|[m * [34m|[m [35m|[m [33m5f8934b[m changes by souhaib
+[1;31m|[m * [34m|[m [35m|[m   [33m44732e2[m Merge branch 'AbdelkaderMH:main' into main
+[1;31m|[m [1;33m|[m[1;34m\[m [34m\[m [35m\[m  
+[1;31m|[m * [1;34m\[m [34m\[m [35m\[m   [33md53b6b9[m Merge pull request #1 from AbdelkaderMH/main
+[1;31m|[m [1;35m|[m[1;36m\[m [1;34m\[m [34m\[m [35m\[m  
+* [1;35m|[m [1;36m\[m [1;34m\[m [34m\[m [35m\[m   [33mcdd9563[m Merge pull request #22 from GhitaBellamine05/feature2
+[1;34m|[m[32m\[m [1;35m\[m [1;36m\[m [1;34m\[m [34m\[m [35m\[m  
+[1;34m|[m [32m|[m[1;34m_[m[1;35m|[m[1;34m_[m[1;36m|[m[1;34m/[m [34m/[m [35m/[m  
+[1;34m|[m[1;34m/[m[32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   
+[1;34m|[m * [1;35m|[m [1;36m|[m [34m|[m [35m|[m [33m28e7ea9[m Add HTML file
+* [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   [33me770238[m Merge pull request #21 from SalmaAMMARI/feature1
+[33m|[m[34m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[33m|[m * [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m [33md10ea4b[m commit
+[33m|[m [32m|[m[32m/[m [1;35m/[m [1;36m/[m [34m/[m [35m/[m  
+* [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   [33mc826f91[m Merge pull request #20 from anirAchibane/anir_features
+[35m|[m[36m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[35m|[m * [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m   [33ma05ebc1[m Merge branch 'main' into anir_features
+[35m|[m [1;31m|[m[35m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[35m|[m [1;31m|[m[35m/[m [32m/[m [1;35m/[m [1;36m/[m [34m/[m [35m/[m  
+[35m|[m[35m/[m[1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   
+* [1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   [33m30fbd3f[m Merge pull request #18 from tarikouabrk1/add-readme-section
+[1;33m|[m[1;34m\[m [1;31m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[1;33m|[m * [1;31m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m   [33me2eeb5a[m Merge branch 'main' into add-readme-section
+[1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m [32m/[m [1;35m/[m [1;36m/[m [34m/[m [35m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   
+* [1;35m|[m [1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   [33mbbc770f[m Merge pull request #17 from anirAchibane/Mouad
+[31m|[m[32m\[m [1;35m\[m [1;31m\[m [32m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[31m|[m * [1;35m|[m [1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m [33m5d7c4cf[m ModifyWeb page
+[31m|[m * [1;35m|[m [1;31m|[m [32m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m [33mea712bf[m Add a Web Page
+[31m|[m [32m|[m [1;35m|[m[32m_[m[1;31m|[m[32m/[m [1;35m/[m [1;36m/[m [34m/[m [35m/[m  
+[31m|[m [32m|[m[32m/[m[1;35m|[m [1;31m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   
+* [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [1;36m|[m [34m|[m [35m|[m   [33m232f338[m Merge pull request #16 from ayaigadern/feature2
+[1;36m|[m[34m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [1;36m\[m [34m\[m [35m\[m  
+[1;36m|[m [34m|[m[1;36m_[m[32m|[m[1;36m_[m[1;35m|[m[1;36m_[m[1;31m|[m[1;36m_[m[1;35m|[m[1;36m/[m [34m/[m [35m/[m  
+[1;36m|[m[1;36m/[m[34m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   
+[1;36m|[m * [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   [33m7e0dfd7[m Merge branch 'main' into feature2
+[1;36m|[m [35m|[m[1;36m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;36m|[m [35m|[m[1;36m/[m [32m/[m [1;35m/[m [1;31m/[m [1;35m/[m [34m/[m [35m/[m  
+[1;36m|[m[1;36m/[m[35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   
+* [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   [33mca650a8[m Merge pull request #12 from chaimaeddib2005/hiba
+[1;31m|[m[1;32m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;31m|[m * [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m   [33m741d92b[m[33m ([m[1;31morigin/hiba[m[33m)[m Merge branch 'main' into hiba
+[1;31m|[m [1;33m|[m[1;31m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [35m/[m [32m/[m [1;35m/[m [1;31m/[m [1;35m/[m [34m/[m [35m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   
+* [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   [33m2c4a64b[m Merge pull request #10 from chaimaeddib2005/alae-branch
+[1;35m|[m[1;36m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;35m|[m * [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m   [33m73198cd[m Merge branch 'main' into alae-branch
+[1;35m|[m [31m|[m[1;35m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m [1;33m/[m [35m/[m [32m/[m [1;35m/[m [1;31m/[m [1;35m/[m [34m/[m [35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   
+* [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   [33md733d5b[m Merge pull request #8 from kimad-cy/html-branch
+[33m|[m[34m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[33m|[m * [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m   [33m5120c70[m Merge branch 'main' into html-branch
+[33m|[m [35m|[m[33m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[33m|[m [35m|[m[33m/[m [31m/[m [1;33m/[m [35m/[m [32m/[m [1;35m/[m [1;31m/[m [1;35m/[m [34m/[m [35m/[m  
+[33m|[m[33m/[m[35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   
+* [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [1;35m|[m [34m|[m [35m|[m   [33mc243bef[m Merge pull request #6 from YassineZitouni29/Yassine1
+[1;35m|[m[1;32m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [1;35m\[m [34m\[m [35m\[m  
+[1;35m|[m [1;32m|[m[1;35m_[m[35m|[m[1;35m_[m[31m|[m[1;35m_[m[1;33m|[m[1;35m_[m[35m|[m[1;35m_[m[32m|[m[1;35m_[m[1;35m|[m[1;35m_[m[1;31m|[m[1;35m/[m [34m/[m [35m/[m  
+[1;35m|[m[1;35m/[m[1;32m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+[1;35m|[m * [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   [33m0c1f422[m Merge branch 'main' into Yassine1
+[1;35m|[m [1;33m|[m[1;35m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [34m\[m [35m\[m  
+[1;35m|[m [1;33m|[m[1;35m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [32m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+* [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   [33mddf20c6[m Merge pull request #5 from kimad-cy/add-readme-section
+[1;35m|[m[1;36m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [34m\[m [35m\[m  
+* [1;36m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [34m\[m [35m\[m   [33m2212d7d[m Merge pull request #4 from SniAssia/branch1
+[31m|[m[32m\[m [1;36m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [32m\[m [1;35m\[m [1;31m\[m [34m\[m [35m\[m  
+[31m|[m * [1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33m6bd4146[m fichier2 added by branch2
+[31m|[m * [1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [32m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33mf8b589a[m fichier.js created
+[31m|[m [32m|[m [1;36m|[m[32m_[m[1;33m|[m[32m_[m[35m|[m[32m_[m[31m|[m[32m_[m[1;33m|[m[32m_[m[35m|[m[32m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[31m|[m [32m|[m[32m/[m[1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+* [32m|[m [1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   [33m167914a[m Merge pull request #3 from Jaguaarr/MyFeature
+[32m|[m[34m\[m [32m\[m [1;36m\[m [1;33m\[m [35m\[m [31m\[m [1;33m\[m [35m\[m [1;35m\[m [1;31m\[m [34m\[m [35m\[m  
+[32m|[m [34m|[m[32m/[m [1;36m/[m [1;33m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m[32m/[m[34m|[m [1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+[32m|[m * [1;36m|[m [1;33m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33ma467b16[m Added index.html
+[32m|[m[32m/[m [1;36m/[m [1;33m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m [1;36m|[m * [35m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m [33m018d30c[m branch Yassine1 made changes on the README file
+[32m|[m [1;36m|[m[32m/[m [35m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m[32m/[m[1;36m|[m [35m|[m [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+[32m|[m [1;36m|[m * [31m|[m [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33mee5e88f[m new html file
+[32m|[m [1;36m|[m[1;36m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m * [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m [33m30a2eee[m readme-new-section
+[32m|[m[32m/[m [31m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m * [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33m7924d94[m Alae modification2
+[32m|[m * [1;33m|[m [35m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33m2e8a834[m Alae modification
+[32m|[m[32m/[m [1;33m/[m [35m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m [1;33m|[m * [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33m6c6d46f[m added new html page
+[32m|[m [1;33m|[m * [1;35m|[m [1;31m|[m [34m|[m [35m|[m [33mb713223[m modified Readme,added simple html page
+[32m|[m [1;33m|[m[32m/[m [1;35m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m[32m/[m[1;33m|[m [1;35m|[m [1;31m|[m [34m|[m [35m|[m   
+[32m|[m [1;33m|[m * [1;31m|[m [34m|[m [35m|[m [33m8bcce3e[m Update README.md
+[32m|[m [1;33m|[m * [1;31m|[m [34m|[m [35m|[m [33m417a85a[m Added a new section to README
+[32m|[m [1;33m|[m * [1;31m|[m [34m|[m [35m|[m [33m279ccfd[m Added a new section to README
+[32m|[m [1;33m|[m[32m/[m [1;31m/[m [34m/[m [35m/[m  
+[32m|[m[32m/[m[1;33m|[m [1;31m|[m [34m|[m [35m|[m   
+[32m|[m [1;33m|[m * [34m|[m [35m|[m [33m6e56487[m Update README
+[32m|[m [1;33m|[m[32m/[m [34m/[m [35m/[m  
+[32m|[m[32m/[m[1;33m|[m [34m|[m [35m|[m   
+[32m|[m [1;33m|[m [34m|[m * [33m3ebfa7a[m Add feature by farah
+[32m|[m [1;33m|[m [34m|[m[34m/[m  
+[32m|[m [1;33m|[m *   [33mdb12dc6[m Merge pull request #4 from chaimaeddib2005/alae-branch
+[32m|[m [1;33m|[m [35m|[m[36m\[m  
+[32m|[m [1;33m|[m [35m|[m * [33m6e25ad5[m[33m ([m[1;31morigin/alae-branch[m[33m)[m Alae modification
+[32m|[m [1;33m|[m * [36m|[m   [33mfe35abb[m Merge pull request #3 from chaimaeddib2005/Chaima-branch
+[32m|[m [1;33m|[m [36m|[m[1;32m\[m [36m\[m  
+[32m|[m [1;33m|[m [36m|[m [1;32m|[m[36m/[m  
+[32m|[m [1;33m|[m [36m|[m[36m/[m[1;32m|[m   
+[32m|[m [1;33m|[m [36m|[m *   [33m7ec809e[m[33m ([m[1;31morigin/Chaima-branch[m[33m)[m Merge branch 'main' into Chaima-branch
+[32m|[m [1;33m|[m [36m|[m [1;33m|[m[36m\[m  
+[32m|[m [1;33m|[m [36m|[m [1;33m|[m[36m/[m  
+[32m|[m [1;33m|[m [36m|[m[36m/[m[1;33m|[m   
+[32m|[m [1;33m|[m * [1;33m|[m   [33m5d090fc[m Merge pull request #2 from chaimaeddib2005/hiba
+[32m|[m [1;33m|[m [1;35m|[m[1;33m\[m [1;33m\[m  
+[32m|[m [1;33m|[m [1;35m|[m[1;33m/[m [1;33m/[m  
+[32m|[m [1;33m|[m[1;33m/[m[1;35m|[m [1;33m|[m   
+[32m|[m * [1;35m|[m [1;33m|[m [33m56ac6a3[m Merge branch 'main' into hiba
+[32m|[m [31m|[m[1;35m\[m[1;35m|[m [1;33m|[m 
+[32m|[m [31m|[m * [1;33m|[m [33ma9e0b56[m Merge pull request #1 from chaimaeddib2005/Chaima-branch
+[32m|[m [31m|[m[32m/[m[34m|[m [1;33m|[m 
+[32m|[m[32m/[m[31m|[m [34m|[m [1;33m|[m 
+[32m|[m * [34m|[m [1;33m|[m [33mf92137e[m Hiba's modification in README
+[32m|[m * [34m|[m [1;33m|[m [33mcd69de8[m Hiba's modification in README
+[32m|[m[32m/[m [34m/[m [1;33m/[m  
+[32m|[m [34m|[m * [33me90b1d7[m Chaima Added an HTML page
+[32m|[m [34m|[m[34m/[m  
+[32m|[m * [33m3e67e6a[m OK
+[32m|[m[32m/[m  
+* [33m16beccf[m Exercice 5 Tasks
+* [33maaf06b1[m first commit
